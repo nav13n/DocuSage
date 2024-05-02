@@ -5,7 +5,7 @@ colorFrom: indigo
 colorTo: gray
 sdk: docker
 pinned: false
-license: MIT
+license: mit
 short_description: DocuSage -AI-powered insights in seconds. 
 ---
 
