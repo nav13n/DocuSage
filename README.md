@@ -6,7 +6,7 @@ colorTo: gray
 sdk: docker
 pinned: false
 license: MIT
-short_description: DocuSage - Ask questions, get answers. AI-powered insights in seconds. 
+short_description: DocuSage -AI-powered insights in seconds. 
 ---
 
 # DocuSage
