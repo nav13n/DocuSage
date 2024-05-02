@@ -9,5 +9,4 @@ langchainhub
 openai
 qdrant-client 
 pymupdf 
-pandas
-unstructured[pdf]
+pandas 
